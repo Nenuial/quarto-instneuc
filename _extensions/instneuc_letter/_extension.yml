@@ -21,6 +21,8 @@ contributes:
         - title.tex
         - before-body.tex
         - after-body.tex
+      include-in-header: 
+        - header.tex
       logo: logo_in.png
       documentclass: scrlttr2
       papersize: a4
