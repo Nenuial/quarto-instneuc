@@ -1,0 +1,52 @@
+title: Bemer Letter
+author: Pascal Burkhard
+version: 1.0.0
+contributes:
+  format:
+    pdf:
+      author: "Pascal Burkhard"
+      place: "Mex"
+      closing: "Avec mes meilleures salutations,"
+      signature: "Pascal Burkhard"
+      department: "Commission culture et jeunesse"
+      return-email: "pascal.burkhard@rpn.ch"
+      return-phone: "079 772 37 56"
+      return-url: "www.institutneuchatelois.ch"
+      return-address: 
+        - "Ch. du Marais 10"
+        - "CH-1031 Mex"
+      format-resources:
+        - swiss.lco
+      template-partials:
+        - title.tex
+        - before-body.tex
+        - after-body.tex
+      logo: logo_in.png
+      documentclass: scrlttr2
+      papersize: a4
+      classoption:
+        - "swiss"
+      colorlinks: false
+      lang: fr-CH
+      geometry:
+        - left=2cm
+        - right=2cm
+      mainfont: FiraSans
+      mainfontoptions:
+        - Extension = .otf
+        - UprightFont = *-Light
+        - ItalicFont = *-LightItalic
+        - BoldFont = *-Regular
+        - BoldItalicFont = *-Italic
+      sansfont: FiraSans
+      sansfontoptions:
+        - Extension = .otf
+        - UprightFont = *-Light
+        - ItalicFont = *-LightItalic
+        - BoldFont = *-Regular
+        - BoldItalicFont = *-Italic
+      mathfont: FiraMath-Light
+      mathfontoptions:
+        - Path = /Library/Fonts/
+        - Extension = .otf
+      

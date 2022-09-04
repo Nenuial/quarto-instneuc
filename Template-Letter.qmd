@@ -1,0 +1,11 @@
+---
+address:
+  - Direction
+
+subject: Lettre
+opening: Madame, Monsieur,
+
+format: instneuc_letter-pdf
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nunc libero, posuere vel urna ac, maximus porttitor metus. Sed bibendum nec lectus ac feugiat. Ut et lacinia eros, eu bibendum tellus. Aenean et faucibus lacus. Morbi a maximus orci. Vivamus lobortis, nisl id posuere euismod, lacus lorem pulvinar orci, at malesuada sapien nunc vel eros. Duis in sem lorem. Curabitur mollis eget dui at laoreet. Donec dignissim libero ac purus semper, eget condimentum magna venenatis. Integer mollis ipsum in eros finibus, ut iaculis tortor euismod. Sed diam arcu, fermentum ac maximus at, luctus a quam.

@@ -1,0 +1,35 @@
+$if(highlighting-macros)$
+$highlighting-macros$
+$endif$
+
+$tightlist.tex()$
+$tables.tex()$
+$graphics.tex()$
+$citations.tex()$
+
+$for(header-includes)$
+$header-includes$
+$endfor$
+
+\definecolor{instneuc}{RGB}{56, 56, 56}
+
+\setkomafont{disposition}{\color{instneuc}\bfseries}
+
+\usepackage{fancyhdr}
+\fancyhf{} % clear all header and footer fields
+\renewcommand{\headrule}{} % Remove head line
+
+\fancyhead[L]{\raisebox{-0.4\height}{\includegraphics[width=$logowidth$]{$logo$}}}
+\fancyhead[C]{\fontsize{12pt}{12pt}\bfseries\color{instneuc}Commission culture et jeunesse}
+\fancyhead[R]{\fontsize{12pt}{12pt}\bfseries\color{instneuc}$title$}
+\fancyfoot[L]{\Mundus~\href{https://www.institutneuchatelois.ch}{www.institutneuchatelois.ch}}
+\fancyfoot[C]{\Telefon~\href{tel:0041797723756}{079 772 36 56}}
+\fancyfoot[R]{\MVAt~\href{mailto:pascal.burkhard@rpn.ch}{pascal.burkhard@rpn.ch}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\pagestyle{fancy}
+
+$if(line-numbers)$
+% Package for linenumbers, with options to switch the page side
+\usepackage[switch,modulo]{lineno}
+$endif$
