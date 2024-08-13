@@ -1,11 +1,39 @@
 ---
 address:
+  - CPNE
   - Direction
 
 subject: Lettre
-opening: Madame, Monsieur,
+opening: Monsieur le Directeur,
 
 format: instneuc_letter-pdf
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nunc libero, posuere vel urna ac, maximus porttitor metus. Sed bibendum nec lectus ac feugiat. Ut et lacinia eros, eu bibendum tellus. Aenean et faucibus lacus. Morbi a maximus orci. Vivamus lobortis, nisl id posuere euismod, lacus lorem pulvinar orci, at malesuada sapien nunc vel eros. Duis in sem lorem. Curabitur mollis eget dui at laoreet. Donec dignissim libero ac purus semper, eget condimentum magna venenatis. Integer mollis ipsum in eros finibus, ut iaculis tortor euismod. Sed diam arcu, fermentum ac maximus at, luctus a quam.
+Comme chaque année, nous organisons en septembre nos deux journées culturelles destinées à des étudiant-e-s du niveau 2 des écoles supérieures et centres d’apprentissage du canton. Cette année, le thème retenu est : « Au fil de l'eau ».
+
+Au cours de ces journées, les étudiant-e-s auront l’occasion de visiter des lieux fermés au public en compagnie de guides experts dans leur domaine.
+
+Les journées permettent également un échange entre les 24 étudiant·e·s de diverses écoles du secondaire 2 issu·e·s de tout le canton. 
+
+::: {.callout appearance="simple" icon=false}
+
+Nous avons donc le plaisir de convier  12  étudiant-e-s de votre école à participer à ces journées.  
+Délai mercredi 21 septembre 2022.
+
+Personnes de référence pour votre établissement : Mme Gabriela Zahnd et M. Laurent Treuthardt
+
+:::
+
+La plus grande partie des frais sera assumée par l’Institut neuchâtelois. Comme à l’accoutumée, nous nous permettrons néanmoins de demander une modeste contribution aux écoles, fixée à fr. 90.- par étudiant-e. Nous vous adresserons une facture après lesdites journées.
+
+Pour l’instant, nous vous prions de bien vouloir nous communiquer les noms des jeunes intéressés par ce thème et réellement motivés par le programme que nous leur avons concocté ! Nous nous permettons de vous rappeler que nous comptons sur des étudiant-e-s sachant parfaitement se conduire, pour des raisons de bon déroulement et d’ambiance agréable. Ils s’engagent à participer à l’ensemble du programme, pendant les deux journées, nuit y compris. L’objectif n’étant pas de consommer des activités, mais de participer à un projet qui permet également de rencontrer d’autres jeunes de tout le canton. En quelque sorte, ils représentent leur propre école (il est important qu’ils en soient conscients).
+
+Nous vous prions de nous faire parvenir les inscriptions au plus tard le vendredi 13 septembre 2019. Il est impératif de respecter ce délai. Passé cette date, les places éventuellement encore disponibles seront attribuées à d’autres écoles. Signalez-nous éventuellement si vous aviez des inscriptions supplémentaires. Merci d’avance pour votre compréhension.
+
+
+Si l’un de vos étudiants devait se désister à la dernière minute pour des raisons graves, nous vous serions reconnaissants de nous en avertir au plus vite. Selon décision de la Commission, il sera facturé à l’école Fr. 25.- par étudiant absent, non excusé au plus tard le lundi 16 septembre auprès de M. André Godinat, responsable des inscriptions. Toutes les places disponibles doivent être distribuées. Les inscriptions ont un caractère définitif.
+
+Vous remerciant d’avance de votre compréhension et de votre précieuse collaboration, nous vous prions de croire, Madame la Directrice, Messieurs les Directeurs, à l’expression de nos sentiments les meilleurs.
+
+
+Annexes : programmes et bulletins d’inscription, à distribuer s.v.p. à chaque étudiant concerné, qui remettra son inscription, dûment remplie, à votre secrétariat qui la transmettra par courriel ou par la poste à M. André Godinat (andre.godinat@rpn.ch  Combe-Grieurin 49, 2300 La Chaux-de-Fonds, tél. 032 913 78 04)

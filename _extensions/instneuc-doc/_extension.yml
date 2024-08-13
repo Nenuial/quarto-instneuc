@@ -1,0 +1,30 @@
+title: Institut Neuchâtelois default document
+author: Pascal Burkhard
+version: 1.1.0
+contributes:
+  format:
+    pdf:
+      documentclass: scrartcl
+      template-partials:
+        - title.tex
+        - pandoc.tex
+        - before-body.tex
+      include-in-header: 
+        - header-setup.tex
+      logowidth: 5cm
+      papersize: a4
+      colorlinks: false
+      lang: fr-CH
+      geometry:
+        - bindingoffset=0cm
+        - headheight=1cm
+        - left=2cm
+        - right=2cm
+        - top=3cm
+        - bottom=2cm
+        - headsep=1.5cm
+        - footskip=1cm
+      variables:
+        logo: "../instneuc-resources/images/logo_in.png"
+        font-path: "../instneuc-resources/fonts/"
+      

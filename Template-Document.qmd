@@ -3,7 +3,7 @@ title: 'Document title'
 subtitle: 'Document subtitle'
 author: Pascal Burkhard
 sign: PBd
-format: instneuc_doc-pdf
+format: instneuc-doc-pdf
 ---
 
 # First header

@@ -18,6 +18,16 @@ $endfor$
 
 \setkomafont{disposition}{\color{instneuc}\bfseries}
 
+% Font setup
+\setmainfont[Extension = .otf,Path =
+$font-path$,UprightFont = *-Light,ItalicFont =
+*-LightItalic,BoldFont = *-Regular,BoldItalicFont = *-Italic]{FiraSans}
+\setsansfont[Extension = .otf,Path =
+$font-path$,UprightFont = *-Light,ItalicFont =
+*-LightItalic,BoldFont = *-Regular,BoldItalicFont = *-Italic]{FiraSans}
+\setmathfont[Path = $font-path$,Extension =
+.otf]{FiraMath-Light}
+
 \usepackage{fancyhdr}
 \fancyhf{} % clear all header and footer fields
 \renewcommand{\headrule}{} % Remove head line
