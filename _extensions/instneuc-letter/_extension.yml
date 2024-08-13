@@ -1,6 +1,6 @@
 title: Institut Neuchâtelois Letter
 author: Pascal Burkhard
-version: 1.0.4
+version: 1.1.0
 contributes:
   format:
     pdf:
@@ -23,7 +23,6 @@ contributes:
         - after-body.tex
       include-in-header: 
         - header.tex
-      logo: logo_in.png
       documentclass: scrlttr2
       papersize: a4
       classoption:
@@ -33,22 +32,7 @@ contributes:
       geometry:
         - left=2cm
         - right=2cm
-      mainfont: FiraSans
-      mainfontoptions:
-        - Extension = .otf
-        - UprightFont = *-Light
-        - ItalicFont = *-LightItalic
-        - BoldFont = *-Regular
-        - BoldItalicFont = *-Italic
-      sansfont: FiraSans
-      sansfontoptions:
-        - Extension = .otf
-        - UprightFont = *-Light
-        - ItalicFont = *-LightItalic
-        - BoldFont = *-Regular
-        - BoldItalicFont = *-Italic
-      mathfont: FiraMath-Light
-      mathfontoptions:
-        - Path = /Library/Fonts/
-        - Extension = .otf
+      variables:
+        logo: "../instneuc-resources/images/logo_in.pdf"
+        font-path: "../instneuc-resources/fonts/"
       

@@ -25,6 +25,6 @@ contributes:
         - headsep=1.5cm
         - footskip=1cm
       variables:
-        logo: "../instneuc-resources/images/logo_in.png"
+        logo: "../instneuc-resources/images/logo_in.pdf"
         font-path: "../instneuc-resources/fonts/"
       

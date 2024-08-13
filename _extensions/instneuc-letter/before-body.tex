@@ -1,3 +1,13 @@
+% Font setup
+\setmainfont[Extension = .otf,Path =
+$font-path$,UprightFont = *-Light,ItalicFont =
+*-LightItalic,BoldFont = *-Regular,BoldItalicFont = *-Italic]{FiraSans}
+\setsansfont[Extension = .otf,Path =
+$font-path$,UprightFont = *-Light,ItalicFont =
+*-LightItalic,BoldFont = *-Regular,BoldItalicFont = *-Italic]{FiraSans}
+\setmathfont[Path = $font-path$,Extension =
+.otf]{FiraMath-Light}
+
 $if(komaoption)$
 \KOMAoptions{$for(komaoption)$$komaoption$$sep$,$endfor$}
 $endif$

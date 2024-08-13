@@ -6,7 +6,7 @@ address:
 subject: Lettre
 opening: Monsieur le Directeur,
 
-format: instneuc_letter-pdf
+format: instneuc-letter-pdf
 ---
 
 Comme chaque année, nous organisons en septembre nos deux journées culturelles destinées à des étudiant-e-s du niveau 2 des écoles supérieures et centres d’apprentissage du canton. Cette année, le thème retenu est : « Au fil de l'eau ».
