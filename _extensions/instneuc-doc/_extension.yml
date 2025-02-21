@@ -1,6 +1,6 @@
 title: Institut Neuchâtelois default document
 author: Pascal Burkhard
-version: 1.1.0
+version: 1.1.1
 contributes:
   format:
     pdf:
@@ -27,4 +27,11 @@ contributes:
       variables:
         logo: "../instneuc-resources/images/logo_in.pdf"
         font-path: "../instneuc-resources/fonts/"
-      
+    typst:
+      font-paths: "../instneuc-resources/fonts/"
+      template-partials:
+        - typst-template.typ
+        - typst-show.typ
+      variables:
+        logo: "../instneuc-resources/images/logo_in.pdf"
+source: nenuial/quarto-instneuc

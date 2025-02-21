@@ -1,6 +1,6 @@
 title: Institut Neuchâtelois Letter
 author: Pascal Burkhard
-version: 1.1.0
+version: 1.1.1
 contributes:
   format:
     pdf:
@@ -35,4 +35,4 @@ contributes:
       variables:
         logo: "../instneuc-resources/images/logo_in.pdf"
         font-path: "../instneuc-resources/fonts/"
-      
+source: nenuial/quarto-instneuc
